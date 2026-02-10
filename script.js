@@ -72,4 +72,4 @@ document.addEventListener("DOMContentLoaded", () => {
 		clearValidity();
 		setMessage("Signed in successfully (demo).", false);
 	});
-});
+});clear
